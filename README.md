@@ -14,6 +14,7 @@ The Quote Machine Generator is a simple web application that allows users to gen
 -   JSX
 -   SASS
 -   Bootstrap
+-   API Data fetching
 
 ## Installation
 
